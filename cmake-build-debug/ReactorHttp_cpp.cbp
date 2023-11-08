@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ReactorHttp_cpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReactorHttp">
+				<Option output="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/ReactorHttp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReactorHttp"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReactorHttp/fast">
+				<Option output="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/ReactorHttp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReactorHttp/fast"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/Buffer.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/Buffer.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/Dispatcher.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/EpollDispatcher.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/EpollDispatcher.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/EventLoop.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/EventLoop.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/HttpRequest.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/HttpRequest.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/HttpResponse.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/HttpResponse.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/Log.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/PollDispatcher.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/PollDispatcher.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/SelectDispatcher.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/SelectDispatcher.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/TcpConnection.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/TcpConnection.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/TcpServer.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/TcpServer.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/ThreadPool.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/ThreadPool.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/WorkerThread.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/WorkerThread.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/channel.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/channel.h">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/main.cpp">
+			<Option target="ReactorHttp"/>
+		</Unit>
+		<Unit filename="/home/kendrick/clion_project/temp/tmp/tmp.8mWlCJpthU/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
